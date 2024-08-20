@@ -1,7 +1,3 @@
-Here's an expanded README for your GitHub repository:
-
----
-
 # Machine Learning Techniques with TensorFlow: CNN, LSTM, and CNN+LSTM
 
 Welcome to the repository! This project is designed to provide students in Earth and Atmospheric Sciences (EAS) with hands-on examples of how to implement different machine learning techniques using TensorFlow. The repository contains Jupyter notebooks that demonstrate the use of Convolutional Neural Networks (CNNs), Long Short-Term Memory networks (LSTMs), and a combined CNN+LSTM model. These notebooks are intended to serve as a practical guide for understanding the coding and application of these models in Python.
